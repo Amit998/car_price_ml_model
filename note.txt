@@ -1,0 +1,15 @@
+create anaconda env ->
+conda create --name myenv
+conda create -n (carprediction) python=3.6
+conda activate carprediction
+locate to some perticular dict
+d:\
+cd D:\study\python\AI\Data_Science\projects\Predict The selling Price for the car(Kaggle Machine Learning Project)
+jupyter notebook
+
+if we need to install package
+activate env
+pip install package
+
+pip freeze > requirements.txt
+conda info --envs
